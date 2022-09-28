@@ -18,15 +18,15 @@ These number are broken down further in the graph below that reveals male riders
 
 <img width="216" alt="trips by weekday per hour" src="https://user-images.githubusercontent.com/106631875/192701865-44ce39d9-8f4d-412b-87ff-136cfdf8270a.png">
 
-The heat map above shows the most popular times to check out a bike for all riders and genders are Thursdays between 5PM and 6PM. This is illustrated with a dark orangish-red color.  
+The heat map above shows the most popular times to check out a bike for all riders and genders are Thursdays between 5PM and 7PM. This is illustrated with a dark orangish-red color.  
 
-The chart below, highlights the 5PM and 6PM checkout times
+The chart below, highlights the hours between 5PM and 7PM checkout times
 
 <img width="365" alt="August Peak Hours" src="https://user-images.githubusercontent.com/106631875/192701643-d47e19e6-a685-4475-ae4d-32ee8221db1b.png">
 
 <img width="397" alt="trips by gender weekday per hour" src="https://user-images.githubusercontent.com/106631875/192701581-dd130e17-e1bf-4f96-8b67-af0f0e0978ab.png">
 
-Above is a second heat map that breaks these trips down by gender (weekday per hour). The data reveals that male riders predominantly make up the 5PM and 6PM Thursday night riders. 
+Above is a second heat map that breaks these trips down by gender (weekday per hour). The data reveals that male riders predominantly make up the Thursday night riders between 5PM and 7PM. 
 
 ## A breakdown of what days of the week a user might be more likely to checkout a bike, by type of user and gender.
 
@@ -38,6 +38,17 @@ Below is a breakdown of the total number of subscribers vs customers.
 
 <img width="246" alt="subscribers" src="https://user-images.githubusercontent.com/106631875/192702145-2f214c7e-7d26-42ec-8e81-e8bd05e7fae5.png">
 
-# Summary - Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+# Summary
+
+### Based on the results: 
+- Most rides are under 20 minutes
+- Subscribers make up the majority of riders
+- Male riders make up the majority of riders
+- Female riders follow similar riding patterns as males but are fewer in number 
+- The peak checkout times are between 5PM and 7PM (especially on Thursdays)
+- While between 5PM and 7PM are peak hours of the day, there is fairly consistent level of riders from 7AM to 8PM
+
+
+
 
 [link to dashboard] (https://public.tableau.com/app/profile/steven8333/viz/NYC_Citibike_Challenge_Story_16643160732190/NYC_Citibike?publish=yes "link to dashboard")
