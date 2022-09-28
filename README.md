@@ -4,7 +4,7 @@ The purpose of the analysis is to convince investors in Des Moines that a bike-s
 
 # Results
 
-## How long are bikes checked out for all riders and genders?
+### How long are bikes checked out for all riders and genders?
 
 <img width="383" alt="checkout times for users" src="https://user-images.githubusercontent.com/106631875/192701382-a68a8c59-b208-4a72-a8f8-c4d5e95e7a41.png">
 
@@ -14,7 +14,7 @@ These number are broken down further in the graph below that reveals male riders
 
 <img width="380" alt="checkout times by gender" src="https://user-images.githubusercontent.com/106631875/192701426-19081c93-7974-499c-b86f-2d8796de674a.png">
 
-## How many trips are taken by the hour for each day of the week, for all riders and genders?
+### How many trips are taken by the hour for each day of the week, for all riders and genders?
 
 <img width="216" alt="trips by weekday per hour" src="https://user-images.githubusercontent.com/106631875/192701865-44ce39d9-8f4d-412b-87ff-136cfdf8270a.png">
 
@@ -28,7 +28,7 @@ The chart below, highlights the hours between 5PM and 7PM checkout times
 
 Above is a second heat map that breaks these trips down by gender (weekday per hour). The data reveals that male riders predominantly make up the Thursday night riders between 5PM and 7PM. 
 
-## A breakdown of what days of the week a user might be more likely to checkout a bike, by type of user and gender.
+### A breakdown of what days of the week a user might be more likely to checkout a bike, by type of user and gender.
 
 <img width="242" alt="user trips by gender by weekday" src="https://user-images.githubusercontent.com/106631875/192701932-31240a98-ec9e-4d00-a4cc-f94a8720c8a3.png">
 
