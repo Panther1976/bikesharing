@@ -36,7 +36,7 @@ The above graph shows that male subscribers are the most likely to checkout a bi
 
 Below is a breakdown of the total number of subscribers vs customers.
 
-<img width="246" alt="subscribers" src="https://user-images.githubusercontent.com/106631875/192702145-2f214c7e-7d26-42ec-8e81-e8bd05e7fae5.png">
+<img width="523" alt="number of riders big" src="https://user-images.githubusercontent.com/106631875/192855476-0b6de500-f1dd-4bd9-b414-c68cfa9ca696.png">
 
 # Summary
 
