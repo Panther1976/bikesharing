@@ -10,7 +10,7 @@ The purpose of the analysis is to convince investors in Des Moines that a bike-s
 
 The above graph shows that most riders checked out bikes for under 20 minutes.
  
-These number are broken down further in the graph below that reveals male riders tend to check out bikes more frequently but for a similar amount of time as female and unknown rider types. 
+These numbers are broken down further in the graph below that reveals male riders tend to check out bikes more frequently but for a similar amount of time as female and unknown rider types. 
 
 <img width="380" alt="checkout times by gender" src="https://user-images.githubusercontent.com/106631875/192701426-19081c93-7974-499c-b86f-2d8796de674a.png">
 
@@ -20,7 +20,7 @@ These number are broken down further in the graph below that reveals male riders
 
 The heat map above shows the most popular times to check out a bike for all riders and genders are Thursdays between 5PM and 7PM. This is illustrated with a dark orangish-red color.  
 
-The chart below, highlights the hours between 5PM and 7PM checkout times
+The chart below, highlights the hours between 5PM and 7PM checkout times.
 
 <img width="365" alt="August Peak Hours" src="https://user-images.githubusercontent.com/106631875/192701643-d47e19e6-a685-4475-ae4d-32ee8221db1b.png">
 
@@ -41,6 +41,7 @@ Below is a breakdown of the total number of subscribers vs customers.
 # Summary
 
 ### Based on the results: 
+
 - Most rides are under 20 minutes
 - Subscribers make up the majority of riders
 - Male riders make up the majority of riders
@@ -48,7 +49,13 @@ Below is a breakdown of the total number of subscribers vs customers.
 - The peak checkout times are between 5PM and 7PM (especially on Thursdays)
 - While between 5PM and 7PM are peak hours of the day, there are a consistent level of riders from 7AM to 8PM
 
+### Additional suggested visualizations for future analysis:
 
+- Average age of riders during peak times broken down by gender
+- Average age of riders during peak times broken down by type of user
+- Heat map of peak times of usertypes
+
+The suggested visualizations will help us learn more about our riders and enable us to have better target marketing to attract more riders that fit these customer segmentations. Learning more about the peak times and age of customers will potentially help convert them to subscribers. 
 
 
 [link to dashboard] (https://public.tableau.com/app/profile/steven8333/viz/NYC_Citibike_Challenge_Story_16643160732190/NYC_Citibike?publish=yes "link to dashboard")
