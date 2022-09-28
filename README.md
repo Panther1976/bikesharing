@@ -16,7 +16,7 @@ These number are broken down further in the graph below that reveals male riders
 
 ## How many trips are taken by the hour for each day of the week, for all riders and genders?
 
-<img width="397" alt="trips by gender weekday per hour" src="https://user-images.githubusercontent.com/106631875/192701581-dd130e17-e1bf-4f96-8b67-af0f0e0978ab.png">
+<img width="216" alt="trips by weekday per hour" src="https://user-images.githubusercontent.com/106631875/192701865-44ce39d9-8f4d-412b-87ff-136cfdf8270a.png">
 
 The heat map above shows the most popular times to check out a bike for all riders and genders are Thursdays between 5PM and 6PM. This is illustrated with a dark orangish-red color.  
 
@@ -24,7 +24,7 @@ The chart below, highlights the 5PM and 6PM checkout times
 
 <img width="365" alt="August Peak Hours" src="https://user-images.githubusercontent.com/106631875/192701643-d47e19e6-a685-4475-ae4d-32ee8221db1b.png">
 
-<img width="216" alt="trips by weekday per hour" src="https://user-images.githubusercontent.com/106631875/192701865-44ce39d9-8f4d-412b-87ff-136cfdf8270a.png">
+<img width="397" alt="trips by gender weekday per hour" src="https://user-images.githubusercontent.com/106631875/192701581-dd130e17-e1bf-4f96-8b67-af0f0e0978ab.png">
 
 Above is a second heat map that breaks these trips down by gender (weekday per hour). The data reveals that male riders predominantly make up the 5PM and 6PM Thursday night riders. 
 
