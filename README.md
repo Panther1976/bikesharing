@@ -46,7 +46,7 @@ Below is a breakdown of the total number of subscribers vs customers.
 - Male riders make up the majority of riders
 - Female riders follow similar riding patterns as males but are fewer in number 
 - The peak checkout times are between 5PM and 7PM (especially on Thursdays)
-- While between 5PM and 7PM are peak hours of the day, there is fairly consistent level of riders from 7AM to 8PM
+- While between 5PM and 7PM are peak hours of the day, there are a consistent level of riders from 7AM to 8PM
 
 
 
