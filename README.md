@@ -40,4 +40,4 @@ Below is a breakdown of the total number of subscribers vs customers.
 
 # Summary - Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
 
-[link to dashboard]( NYC_Citibike_Challenge_Story | Tableau Public “link to dashboard”)
+[link to dashboard] (https://public.tableau.com/app/profile/steven8333/viz/NYC_Citibike_Challenge_Story_16643160732190/NYC_Citibike?publish=yes "link to dashboard")
