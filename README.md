@@ -1,10 +1,10 @@
-#Overview of the Analysis
+# Overview of the Analysis
 
 The purpose of the analysis is to convince investors in Des Moines that a bike-sharing program will have similar success as one in New York City. By analyzing the NYC trip data, we hope to answer some key questions and convince the investors to help finance our business proposal. 
 
-#Results
+# Results
 
-##How long are bikes checked out for all riders and genders?
+## How long are bikes checked out for all riders and genders?
 
 <img width="383" alt="checkout times for users" src="https://user-images.githubusercontent.com/106631875/192701382-a68a8c59-b208-4a72-a8f8-c4d5e95e7a41.png">
 
@@ -14,7 +14,7 @@ These number are broken down further in the graph below that reveals male riders
 
 <img width="380" alt="checkout times by gender" src="https://user-images.githubusercontent.com/106631875/192701426-19081c93-7974-499c-b86f-2d8796de674a.png">
 
-##How many trips are taken by the hour for each day of the week, for all riders and genders?
+## How many trips are taken by the hour for each day of the week, for all riders and genders?
 
 <img width="397" alt="trips by gender weekday per hour" src="https://user-images.githubusercontent.com/106631875/192701581-dd130e17-e1bf-4f96-8b67-af0f0e0978ab.png">
 
@@ -28,7 +28,7 @@ The chart below, highlights the 5PM and 6PM checkout times
 
 Above is a second heat map that breaks these trips down by gender (weekday per hour). The data reveals that male riders predominantly make up the 5PM and 6PM Thursday night riders. 
 
-##A breakdown of what days of the week a user might be more likely to checkout a bike, by type of user and gender.
+## A breakdown of what days of the week a user might be more likely to checkout a bike, by type of user and gender.
 
 <img width="242" alt="user trips by gender by weekday" src="https://user-images.githubusercontent.com/106631875/192701932-31240a98-ec9e-4d00-a4cc-f94a8720c8a3.png">
 
@@ -38,6 +38,6 @@ Below is a breakdown of the total number of subscribers vs customers.
 
 <img width="246" alt="subscribers" src="https://user-images.githubusercontent.com/106631875/192702145-2f214c7e-7d26-42ec-8e81-e8bd05e7fae5.png">
 
-#Summary - Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+# Summary - Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
 
 [link to dashboard]( NYC_Citibike_Challenge_Story | Tableau Public “link to dashboard”)
